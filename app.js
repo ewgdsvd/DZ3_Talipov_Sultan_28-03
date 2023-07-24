@@ -11,4 +11,4 @@ function flipString(inputString) {
   return flippedString;
 }
 console.log(flipString('Geeks')); // Output: "skeeG"
-console.log(flipString('love')); // Output: "evoL"
+console.log(flipString('love')); // Output: "evol"
